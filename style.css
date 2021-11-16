@@ -39,15 +39,20 @@ body {
 }
 
 .index-container ul a {
+  margin-bottom: 80px;
   font-size: 20px;
   font-weight: 600;
   color: rgb(46, 134, 248);
   text-decoration: none;
 }
 
+.index-container ul a:hover {
+  transition: 0.3s;
+  color: rgb(70, 147, 248);
+}
+
 .index-container ul a li {
   text-align: center;
-  padding: 30px 0;
 }
 
 .index-container ul a li img {
@@ -55,7 +60,7 @@ body {
 }
 
 .index-container ul a li h3 {
-  padding: 20px 0;
+  padding-top: 20px;
 }
 
 /* --- Recipes page --- */
@@ -105,5 +110,10 @@ body {
   font-weight: 600;
   color: rgb(46, 134, 248);
   text-decoration: none;
+  transition: 0.2s;
+}
+
+.recipe-container a:hover {
+  color: rgb(70, 147, 248);
 }
 
