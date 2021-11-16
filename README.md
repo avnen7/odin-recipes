@@ -7,7 +7,7 @@ It consists of a main page that links to three other pages, each being a differe
 
 ## Links
 
-You can [**view the live project**](https://avnen7.github.io/odin-recipes/)
+You can [**view the live project here**](https://avnen7.github.io/odin-recipes/)
 
 The project is part of [**The Odin Project curriculum**](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/recipes)
 
